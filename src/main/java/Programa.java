@@ -7,6 +7,7 @@ public class Programa {
         System.out.println("Hello!");
     }
 
+    /*segundo commit */
     public void hiLorena(String s){
         System.out.println(s);
     }
