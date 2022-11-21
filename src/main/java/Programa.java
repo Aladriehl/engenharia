@@ -6,4 +6,8 @@ public class Programa {
     public void helloWorld(){
         System.out.println("Hello!");
     }
+
+    public void hiLorena(String s){
+        System.out.println(s);
+    }
 }
